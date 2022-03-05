@@ -1,16 +1,19 @@
-### Hi there 👋
+<img align="right" src="https://count.getloli.com/get/@:JiachenFan1208?theme=rule34">
 
-<!--
-**JiachenFan1208/JiachenFan1208** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 热爱电脑的小白-Jason Fan
 
-Here are some ideas to get you started:
+热爱编程、热爱技术、正在努力学习中。喜欢参与一些开源项目的讨论。
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### **社交主页：**
+
+ <img align="right" alt="GIF" src="./images/code.gif" width="430" height="100%" />
+
+-   <a href="https://space.bilibili.com/6066294?spm_id_from=333.1007.0.0"><code><img height="20" width="50" src="./images/bilibili.png"></code></a>
+
+
+### Github 活跃度
+
+[![](https://activity-graph.herokuapp.com/graph?username=JiachenFan1208&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![Jiachen Fan's github stats](https://github-readme-stats.vercel.app/api?username=JiachenFan1208&show_icons=true&theme=dracula)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JiachenFan1208)

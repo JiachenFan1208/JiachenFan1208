@@ -12,6 +12,6 @@
 ### Github 活跃度
 [![](https://activity-graph.herokuapp.com/graph?username=JiachenFan1208&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ![Jiachen Fan's github stats](https://github-readme-stats.vercel.app/api?username=JiachenFan1208&show_icons=true&theme=dracula)
- <img align="right" alt="GIF" src="./images/code.gif" width="430" height="100%" />
+ <img align="right" alt="GIF" src="./images/code.gif" width="300" height="100%" />
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JiachenFan1208)
